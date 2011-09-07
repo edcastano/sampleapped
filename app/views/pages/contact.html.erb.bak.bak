@@ -1,4 +1,10 @@
-<h1>Contact</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact</title>
+  </head>
+  <body>
+    <h1>Contact</h1>
     <p>
       Contact Ruby on Rails Tutorial about the sample app at the
       <a href="http://railstutorial.org/feedback">feedback page</a>.
